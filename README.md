@@ -22,4 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
 # react-rails-tutorial
+
+Ruby on Rails でReactを使うためのサンプル。  
+http://qiita.com/joe-re/items/96f12dda4a62470d1d7c
+この記事を参照  
+
+『Webpackを使ってRailsからjavascriptを分離する記事』  
+http://qiita.com/necojackarc/items/afa674ab10aafa9784eb
